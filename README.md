@@ -1,8 +1,8 @@
-# PDF Comparison Tool
+# Diff PDF Gui
 
 This tool is a GUI for [diff-pdf](https://github.com/vslavik/diff-pdf). It allows you to compare two PDF files and view the differences.
 
-![PDF Comparison Tool Screenshot](screenshots/pdf-diff-gui.png)
+![diff-pdf-gui Screenshot](screenshots/pdf-diff-gui.png)
 
 
 
